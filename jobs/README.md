@@ -1,3 +1,14 @@
+# [Channel VAS](http://www.channelvas.com/) is hiring in Crete!
+Do you have what it takes to join Channel VAS, the global Fin Tech leader?
+
+Channel VAS lends more than $4.5 million USD to over 550 million people in 25 countries worldwide - and these numbers keep growing every day! We employ only the best to join our team of highly skilled professionals in our Operations Center in Greece and other countries.
+
+We are looking for a sharp and highly motivated Software Engineer with proficiency in the area of application software development. Are you results driven and highly motivated to meet project deadlines and take up technology challenges?
+
+Channel VAS offers a friendly, challenging and inspiring work environment along with a very competitive benefits package. Our growing team of talented Software Engineers offers you the ability to grow your professional skill set while working with a highly motivated international team!
+
+Apply [here](https://channelvas.workable.com/jobs/406438)
+
 # Devstaff Community Job Openings
 
 In this section you can find some job openings listed by our community members. If you want to add a new job opening do it at the top of the list below, git commit, git push and create a pull request on github.
